@@ -14,11 +14,6 @@ This is an AI-powered Hiring Assistant. This chatbot helps in the initial screen
 
 Follow these steps to set up and run TalentScout Hiring Assistant on your system:
 
-### Clone the Repository
-```bash
-git clone https://github.com/yourusername/talentscout-hiring-assistant.git
-cd talentscout-hiring-assistant
-```
 
 ### Install Dependencies
 ```bash
@@ -47,5 +42,5 @@ Fork the repo and submit a pull request.
 
 
 ## Contact
-For any queries or collaboration opportunities, reach out via [email@example.com](mailto:abid86227@gmail.com)
+For any queries or collaboration opportunities, reach out via (abid86227@gmail.com)
 
